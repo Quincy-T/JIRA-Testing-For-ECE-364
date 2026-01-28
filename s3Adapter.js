@@ -1,0 +1,1 @@
+// Adapter unit to store all date in S3 on AWS \_'-'_/
