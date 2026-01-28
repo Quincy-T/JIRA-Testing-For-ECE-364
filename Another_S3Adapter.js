@@ -1,0 +1,1 @@
+// Wow another totally working adpater to store folling list to the DB S3 on AWS
